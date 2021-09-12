@@ -1,0 +1,86 @@
+solid Untitled-613dfab7
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 558.0000000000001 597.0 0.0
+    vertex 0.0 185.0 0.0
+    vertex 0.0 597.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 0.0 185.0 0.0
+    vertex 558.0000000000001 597.0 0.0
+    vertex 558.0000000000001 185.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 558.0000000000001 185.0 1504.999999999999
+    vertex 0.0 597.0 1504.999999999999
+    vertex 0.0 185.0 1504.999999999999
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 0.0 597.0 1504.999999999999
+    vertex 558.0000000000001 185.0 1504.999999999999
+    vertex 558.0000000000001 597.0 1504.999999999999
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 597.0 1504.999999999999
+    vertex 0.0 185.0 0.0
+    vertex 0.0 185.0 1504.999999999999
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 185.0 0.0
+    vertex 0.0 597.0 1504.999999999999
+    vertex 0.0 597.0 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex 0.0 597.0 1504.999999999999
+    vertex 558.0000000000001 597.0 0.0
+    vertex 0.0 597.0 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex 558.0000000000001 597.0 0.0
+    vertex 0.0 597.0 1504.999999999999
+    vertex 558.0000000000001 597.0 1504.999999999999
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 558.0000000000001 597.0 0.0
+    vertex 558.0000000000001 185.0 1504.999999999999
+    vertex 558.0000000000001 185.0 0.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 558.0000000000001 185.0 1504.999999999999
+    vertex 558.0000000000001 597.0 0.0
+    vertex 558.0000000000001 597.0 1504.999999999999
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 558.0000000000001 185.0 1504.999999999999
+    vertex 0.0 185.0 0.0
+    vertex 558.0000000000001 185.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 0.0 185.0 0.0
+    vertex 558.0000000000001 185.0 1504.999999999999
+    vertex 0.0 185.0 1504.999999999999
+  endloop
+endfacet
+endsolid Untitled-613dfab8
